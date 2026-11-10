@@ -4,15 +4,19 @@ Welcome to the public issue tracker for **BloomingChat**, the all-in-one mobile-
 
 This repository is dedicated to collecting **reproducible bug reports**, **community feedback**, and **feature suggestions** for future releases.
 
+> ⚡ **Launch Special (Limited to first 5 buyers):**  
+> Discounts are automatically applied via the links below:
+> - ⚡ **Standard License:** [Get it for $79 ($50 OFF)](https://blooming507.gumroad.com/l/bloomingchat/EARLYBIRD50) *(Code: `EARLYBIRD50`)*
+> - 🚀 **Extended License:** [Get it for $159 ($90 OFF)](https://blooming507.gumroad.com/l/bloomingchat/EARLYBIRD90) *(Code: `EARLYBIRD90`)*
+
 ---
 
 ### 🌐 Quick Links
 - **Live Demo & Sandbox:** [Try the Live Interactive Demo](https://svelte-mobile-app-pro.pages.dev/)
-- **Get the Starter Kit (Gumroad):**
-  - ⚡ **Standard License ($50 OFF):** [Claim $79 Deal (Code: EARLYBIRD50)](https://blooming507.gumroad.com/l/bloomingchat/EARLYBIRD50)
-  - 🚀 **Extended License ($90 OFF):** [Claim $159 Deal (Code: EARLYBIRD90)](https://blooming507.gumroad.com/l/bloomingchat/EARLYBIRD90)
-  > *Limited to the first 5 buyers per tier. Discounts apply automatically at checkout.*
-- **Alternative Store:** [Lemon Squeezy](https://your-lemonsqueezy-link)
+- **Get the Starter Kit:** 
+  - [Gumroad Store](https://blooming507.gumroad.com/l/bloomingchat) *(Lemon Squeezy coming soon)*
+  - ⚡ [Standard License — $79 ($50 OFF)](https://blooming507.gumroad.com/l/bloomingchat/EARLYBIRD50)
+  - 🚀 [Extended License — $159 ($90 OFF)](https://blooming507.gumroad.com/l/bloomingchat/EARLYBIRD90)
 
 ---
 
