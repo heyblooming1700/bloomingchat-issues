@@ -8,7 +8,11 @@ This repository is dedicated to collecting **reproducible bug reports**, **commu
 
 ### 🌐 Quick Links
 - **Live Demo & Sandbox:** [Try the Live Interactive Demo](https://svelte-mobile-app-pro.pages.dev/)
-- **Get the Starter Kit:** [Gumroad](https://your-gumroad-link) | [Lemon Squeezy](https://your-lemonsqueezy-link) *(판매 링크 교체)*
+- **Get the Starter Kit (Gumroad):**
+  - ⚡ **Standard License ($50 OFF):** [Claim $79 Deal (Code: EARLYBIRD50)](https://blooming507.gumroad.com/l/bloomingchat/EARLYBIRD50)
+  - 🚀 **Extended License ($90 OFF):** [Claim $159 Deal (Code: EARLYBIRD90)](https://blooming507.gumroad.com/l/bloomingchat/EARLYBIRD90)
+  > *Limited to the first 5 buyers per tier. Discounts apply automatically at checkout.*
+- **Alternative Store:** [Lemon Squeezy](https://your-lemonsqueezy-link)
 
 ---
 
